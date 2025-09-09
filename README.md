@@ -31,7 +31,7 @@
 
 #### 🎮 Game Development Tools
 <p>
-  🔹 Zenject (DI Container) • Addressables • UniTask • DOTween • SDKs • HLSL  
+  🔹 Zenject (VContainer) • Addressables • UniTask • DOTween • SDKs • HLSL  
 </p>
 
 #### 🎨 Design & UI
