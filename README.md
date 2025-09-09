@@ -44,7 +44,7 @@
 ### 📊 GitHub Highlights  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SharpShrk&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=SharpShrk&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Fhb2Q1cWc4aDh4dXkwazFrNGxrYmt6M2dnN25yenhuZGxmYmhpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KeilH5rA1p7k8gTaq6/giphy.gif" width="200"/>
   <br/>
   <i>“Games are not just entertainment, they are worlds we create.”</i>
 </div>
